@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Salojin Workspace',
     description: 'My list of Kasm workspaces.',
     icon: 'https://github.com/alsalojin/kasm-registry/blob/1.0/site/public/nextcloud.png',
-    listUrl: 'https://github.com/alsalojin/kasm-registry',
+    listUrl: 'https://alsalojin.github.io/kasm-registry/',
     contactUrl: 'https://github.com/alsalojin/kasm-registry/issues',
   },
   reactStrictMode: true,
