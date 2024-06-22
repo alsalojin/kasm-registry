@@ -20,7 +20,8 @@
     ],
     "entrypoint": [
       "/kasminit"
-    ],
+    ]
+  },
   "exec_config": {},
   "architecture": [
     "amd64",
@@ -34,3 +35,4 @@
   ],
   "uncompressed_size_mb": 2690
 }
+
