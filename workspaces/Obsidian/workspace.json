@@ -20,7 +20,6 @@
     ],
     "entrypoint": [
       "/kasminit"
-    ],
   },
   "exec_config": {},
   "architecture": [
