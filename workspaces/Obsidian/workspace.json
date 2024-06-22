@@ -21,7 +21,6 @@
     "entrypoint": [
       "/kasminit"
     ],
-    "user": 1000
   },
   "exec_config": {},
   "architecture": [
