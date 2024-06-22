@@ -20,10 +20,11 @@
     ],
     "entrypoint": [
       "/kasminit"
-  },
+    ],
   "exec_config": {},
   "architecture": [
     "amd64",
+    "arm64"
   ],
   "compatibility": [
     "1.13.x",
